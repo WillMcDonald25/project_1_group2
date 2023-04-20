@@ -1,3 +1,6 @@
+#config 
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,6 +8,9 @@ __pycache__/
 config.py
 # C extensions
 *.so
+config.py
+**/.DS_Store
+*.DS_Store
 
 # Distribution / packaging
 .Python
