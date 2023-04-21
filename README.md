@@ -38,7 +38,8 @@ passengers and maximum cost for each type of weather. Although our intention was
 calculate the total figures, we were unable to do so due to the small size of the dataset,
 resulting in the oversight of this bug.
 
-In conclusion
+conclusion
+
 In summary, Upon examining our initial hypothesis, the data we analyzed did not
 support it. However, there are several factors that may have influenced this outcome,
 such as the limited sample size of the data we analyzed. Additionally, we faced time
